@@ -1,6 +1,6 @@
- # Project Title
+ # JavaScript Pig game app
 
-One Paragraph of project description goes here
+A dice game where two players are required to play the game and whoever score total 20 points wins the game.
 
 ## Getting Started
 
